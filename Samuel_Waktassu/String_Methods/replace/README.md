@@ -1,6 +1,3 @@
-
----
-
 ###  `Replace()`
 ```md
 # Python `replace()` Method
