@@ -1,4 +1,4 @@
-### `isalnum()` - README.md
+### `isalnum()` 
 ```md
 # Python `isalnum()` Method
 
