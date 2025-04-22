@@ -1,4 +1,4 @@
-`count_substring_occurrences(text, substring)`
+#`count_substring_occurrences(text, substring)`
 
 ### **Python Code:**
 ```python
